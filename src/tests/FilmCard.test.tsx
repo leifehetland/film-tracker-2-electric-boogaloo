@@ -4,7 +4,7 @@ import FilmCard from '../components/FilmCard';
 import type Film from '../utils/interfaces/Film.interface';
 
 const film: Film = {
-  Title: 'Godzilla, the Guardian of the Universe',
+  Title: 'Gamera, the Guardian of the Universe',
   Director: 'Shûsuke Kaneko',
   Actors: 'Tsuyoshi Ihara, Akira Onodera, Shinobu Nakayama',
   Released: '16 Apr 1997',
